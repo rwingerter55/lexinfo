@@ -19,7 +19,7 @@ head,,LexicalEntry,
 holonymTerm,partitiveRelation,LexicalSense,Indicates that the referenced element is a part of this object
 homograph,,LexicalEntry,"A word that is spelled like another, but that has a different pronunciation, meaning, and/or origin. // Word that is written like another, but that has a different pronunciation, meaning, and/or origin."
 homonym,,LexicalEntry,A word that is pronounced like another word and that can be spelled the same way (homograph) or can merely sound the same (homophone). // Word that sounds the same and is written the same as another word but is different in meaning.
-homophone,,LexicalEntry,"A word that is pronounced in the same way as another word but that is spelled differently. // Word that sounds like another word, but is different in writiing or meaning."
+homophone,,LexicalEntry,"A word that is pronounced in the same way as another word but that is spelled differently. // Word that sounds like another word, but is different in writing or meaning."
 hypernym,,LexicalSense,
 hyponym,,LexicalSense,
 initialismFor,contractionFor,LexicalEntry,A linking element used to identify a relation between an initialism and its full or expanded form.
@@ -27,7 +27,7 @@ memberHolonym,holonymTerm,LexicalSense,Indicates the object is a member of this
 memberMeronym,meronymTerm,LexicalSense,Indicates this is an element of the other
 meronymTerm,partitiveRelation,LexicalSense,Indicates this is a part of another concept
 partHolonym,holonymTerm,LexicalSense,Indicates a part of this object
-partMeronym,meronymTerm,LexicalSense,Indicates this a component of the other concept
+partMeronym,meronymTerm,LexicalSense,Indicates this is a component of the other concept
 participleFormOf,derivedForm,LexicalEntry,"Indicates that one lexical entry is the participle form of another, e.g., the adjective 'reassuring' is the participle of 'to reassure'"
 partitiveRelation,,LexicalSense,A relation between two concepts where one of the concepts constitutes the whole and the other concept a part of that whole.
 pertainsTo,,LexicalSense,
